@@ -1,0 +1,40 @@
+.movie-card {
+    background-color: #f0f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.movie-card:hover {
+    transform: scale(1.05);
+}
+
+.movie-card-image {
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 8px 8px 0 0;
+}
+
+.movie-card-title {
+    color: #1a1a1a;
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.movie-card-author {
+    color: #404040;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.movie-card-date {
+    color: #808080;
+    font-size: 14px;
+}
+  
