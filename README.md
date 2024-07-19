@@ -34,6 +34,7 @@ Make sure you have Node.js installed. You can download it from [nodejs.org](http
 ## Running the Application
 
 Start the development server:
+
     ```sh
     npm start
 
