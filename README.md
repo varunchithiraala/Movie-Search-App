@@ -35,7 +35,6 @@ Make sure you have Node.js installed. You can download it from [nodejs.org](http
 
 Start the development server:
 
-    ```sh
     npm start
 
 The application will open in your default browser at [http://localhost:3000](http://localhost:3000).
